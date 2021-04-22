@@ -20,7 +20,7 @@ npm run dev
 
 then run the mobile by running the command (Metro bundler):
 
-npm start
+``npm start``
 
 only then you can run:
 
