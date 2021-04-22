@@ -6,7 +6,8 @@ I've made this repository in order to put my new full stack skills into it, I've
 
 #To get it working you will need to use 
 
-npm-install 
+``npm-install`` 
+
 
 at backend, frontend and mobile (to get the dependencies into it)
 
@@ -16,7 +17,7 @@ you'll also need 3 terminal windows
 
 run the backend by running the command:
 
-npm run dev
+``npm run dev``
 
 then run the mobile by running the command (Metro bundler):
 
@@ -24,6 +25,6 @@ then run the mobile by running the command (Metro bundler):
 
 only then you can run:
 
-npx react-native run-android
+``npx react-native run-android ``
 
 I'm just using react and not installing it globally because it can cause some errors.
