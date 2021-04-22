@@ -1,0 +1,30 @@
+Funções importantes:
+
+Babel: converter (transpilar) código do React para um código que browser entenda
+
+Webpack: Para cada tipo de arquivo (.js, .css, .png) eu vou converter o codigo 
+de um maneira diferente
+
+
+Loaders: babel-loader, css-loader, image-loader é feita para conseguir entender arquivos
+dando sentido ao codigo JS
+
+
+JSX: HTML dentro do JS, traduzindo (Javascript XML)
+=====================================================================================================
+
+NOTA IMPORTANTE:
+se dominar os tres principios do react bem poderá criar qualquer aplicação 
+
+são eles: 
+Componente:
+Uma forma de encapusular nosso codigo, dividir ele em varias instancias passar a info entre eles,
+aumentando assim a possbilidade de conseguirmos fazer a manutenção do codigo
+
+
+Propriedade:
+Quando passamos uma informação da propriedade pai para a propriedade filho, essa informação
+é conhecida como propriedade
+
+
+Estado:
