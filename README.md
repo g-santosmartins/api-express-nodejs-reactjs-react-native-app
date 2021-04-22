@@ -11,6 +11,7 @@ npm-install
 at backend, frontend and mobile (to get the dependencies into it)
 
 # Running the project
+![How many terminal windows](https://user-images.githubusercontent.com/62312282/115793874-4ce4ec80-a3a3-11eb-9e19-e7efa2f7dc81.jpeg)
 you'll also need 3 terminal windows
 
 run the backend by running the command:
